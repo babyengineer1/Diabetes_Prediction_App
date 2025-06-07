@@ -1,6 +1,6 @@
 # Diabetes_Prediction_App
 
-##🩺 Diabetes Prediction Project
+🩺 Diabetes Prediction Project
 Using data to detect diabetes risk early, and make healthcare more proactive, not reactive.
 
 ## 🌟 Why I Built This
