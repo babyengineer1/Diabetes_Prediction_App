@@ -15,7 +15,7 @@ The final product is an intelligent web app that:
 * Returns a prediction: "High Risk" or "Likely Non-Diabetic", in under a second.
 It's designed to be both accurate and interpretable, focusing on real-world impact.
 
-## 🔍 How I Built It
+## How I Built It
 ### 1. Understanding the Data
 I worked with a dataset of 100,000 records, each containing health metrics like:
 * Age, Gender
@@ -66,6 +66,7 @@ This app can be deployed anywhere, local machine, cloud, or integrated into a cl
 
 ## Try It Yourself
 Clone the repo, install dependencies, and run the app:
+
 pip install -r requirements.txt
 streamlit run app.py
 You'll be able to enter health details and see a live prediction in seconds.
