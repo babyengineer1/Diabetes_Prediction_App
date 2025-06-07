@@ -57,6 +57,8 @@ XGBoost achieved the best balance of recall and precision.
   * Encodes values automatically
   * Displays a clear prediction message
 
+Link to app: https://diabetespredictionapp-459u8xctifzcg32rde338e.streamlit.app/ 
+
 ## Challenges Encountered
 ### 1. Categorical Input Handling:
   XGBoost does not accept string inputs. In the app, categorical variables had to be mapped manually, replicating the training-time encoding.
